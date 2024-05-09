@@ -1,2 +1,2 @@
-# schedrop
+# Schedrop
 Schedule Maker App
